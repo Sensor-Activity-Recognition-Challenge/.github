@@ -12,6 +12,11 @@ Tobias Buess | [@buesst1](https://github.com/buesst1)
 Yvo Keller | [@kelleryvo](https://github.com/kelleryvo)
 
 ## Taskboard
-Hier geht es zum Challenge Taskboard mit allen Tasks und Issues
+Hier geht es zum Challenge Taskboard mit allen Tasks und Issues:
 
 [Link zum Taskboard](https://github.com/orgs/Sensor-Based-Activity-Recognition/projects/1)
+
+## Dokumentation
+Unsere Dokumentationsübersicht über das ganze Projekt ist hier zu finden:
+
+[Link zur Dokumentation](https://github.com/Sensor-Based-Activity-Recognition/docs)
